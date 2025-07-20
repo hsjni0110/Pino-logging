@@ -87,6 +87,8 @@ curl http://localhost:3000/api/analytics/monthly-revenue
 
 ## 📝 로그 출력 예시
 
+<img width="691" height="157" alt="image" src="https://github.com/user-attachments/assets/f7c28194-e6f9-47bf-881b-09db8f20ffda" />
+
 ### 일반 쿼리
 ```
 [2025-07-20 15:30:25] INFO: find on users (45ms) filter={"age":{"$gte":18}}
