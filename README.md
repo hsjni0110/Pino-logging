@@ -70,7 +70,7 @@ node seed.js
 node server.js
 ```
 
-## 📋 테스트 API 엔드포인트
+## 테스트 API 엔드포인트
 
 서버 실행 후 다음 엔드포인트로 쿼리를 테스트할 수 있습니다:
 
@@ -85,7 +85,7 @@ curl http://localhost:3000/api/orders/top-sales
 curl http://localhost:3000/api/analytics/monthly-revenue
 ```
 
-## 📝 로그 출력 예시
+## 로그 출력 예시
 
 <img width="691" height="157" alt="image" src="https://github.com/user-attachments/assets/f7c28194-e6f9-47bf-881b-09db8f20ffda" />
 
