@@ -5,7 +5,6 @@ import { logger } from './logger.js';
 
 const SLOW_LOGGING = process.env.SLOW_LOGGING === 'true';
 const SLOW_MS = parseInt(process.env.SLOW_QUERY_THRESHOLD, 10) || 200;
-const SIMULATED_DELAY = parseInt(process.env.SIMULATED_DELAY, 10) || 0;
 
 export const als = new AsyncLocalStorage();
 
